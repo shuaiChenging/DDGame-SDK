@@ -1,0 +1,6 @@
+framework module DDGameSDK {
+  umbrella header "DDGameSDK.h"
+
+  export *
+  module * { export * }
+}
