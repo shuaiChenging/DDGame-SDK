@@ -4,21 +4,9 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/CenterInfo.h</key>
-		<data>
-		sVq0LCmc3taQVd3yKH0ayEGlBIU=
-		</data>
-		<key>Headers/DDGameManage.h</key>
-		<data>
-		8ICIBEVYHsJcg3p0Oy1a4qPpT1M=
-		</data>
 		<key>Headers/DDGameSDK.h</key>
 		<data>
 		TC66oGHylLF4Z2FeMOTk0x4coyY=
-		</data>
-		<key>Headers/RoleInfo.h</key>
-		<data>
-		MeSGaJEUo5dqF5sF1E3dTUSHRRE=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -31,28 +19,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/CenterInfo.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			sVq0LCmc3taQVd3yKH0ayEGlBIU=
-			</data>
-			<key>hash2</key>
-			<data>
-			dGcHHJYylP804aezMPwJyhCvKCg3kOxB8efDjAt+rlM=
-			</data>
-		</dict>
-		<key>Headers/DDGameManage.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			8ICIBEVYHsJcg3p0Oy1a4qPpT1M=
-			</data>
-			<key>hash2</key>
-			<data>
-			G2Iq+dWq65LNQMF0CvtAyvWsRcyiC3d09JRIqAHnmuM=
-			</data>
-		</dict>
 		<key>Headers/DDGameSDK.h</key>
 		<dict>
 			<key>hash</key>
@@ -62,17 +28,6 @@
 			<key>hash2</key>
 			<data>
 			WUe+y8GcaWuWcCMpFcxZ2Aw8/lWIxeO3DifAB251v8E=
-			</data>
-		</dict>
-		<key>Headers/RoleInfo.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			MeSGaJEUo5dqF5sF1E3dTUSHRRE=
-			</data>
-			<key>hash2</key>
-			<data>
-			zMmPDGglR456awNy0DLVf00d3y8Gm6mda9T77DFxMvU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
