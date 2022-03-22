@@ -8,7 +8,7 @@
 #import <UIKit/UIKit.h>
 #import "RoleInfo.h"
 #import "CenterInfo.h"
-typedef void (^LoginSuccess)(void);
+typedef void (^LoginResult)(BOOL isSuccess, NSString * _Nullable token);
 typedef void (^ChangeAccount)(void);
 NS_ASSUME_NONNULL_BEGIN
 
@@ -20,11 +20,11 @@ NS_ASSUME_NONNULL_BEGIN
 
 /// 初始化登录页面
 /// @param success 登录成功回调
-+ (void)loadLoginViewWithLoginSuccess:(LoginSuccess )success;
++ (void)loadLoginViewWithLoginSuccess:(LoginResult )success;
 
 /// 退出重新登录页面
 /// @param success 登录成功回调
-+ (void)reloadLoginViewWithLoginSuccess:(LoginSuccess )success;
++ (void)reloadLoginViewWithLoginSuccess:(LoginResult )success;
 
 /// 加载中心页面
 /// @param commodity 商品名称

@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "GameFrameworkTool"
-  spec.version      = "1.0.2"
+  spec.version      = "1.0.3"
   spec.summary      = "DDGameSDK Tool"
 
   # This description is used to generate tags and improve search results.
