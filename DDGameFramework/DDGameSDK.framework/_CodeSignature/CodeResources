@@ -28,6 +28,14 @@
 		<data>
 		eQkZ6uj+Mvmcb828l8PZlIs0dlU=
 		</data>
+		<key>confuse.sh</key>
+		<data>
+		Lcp+QLdWqTOmVuZQOcE1XUcE3pA=
+		</data>
+		<key>func.list</key>
+		<data>
+		7eK7ZNKb0XKY72vH+2GVsdHnCCA=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -84,6 +92,28 @@
 			<key>hash2</key>
 			<data>
 			nwyoES8jEt0+/LPoAzjcz86ZmYKwl53fuNlf2v1AbQs=
+			</data>
+		</dict>
+		<key>confuse.sh</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Lcp+QLdWqTOmVuZQOcE1XUcE3pA=
+			</data>
+			<key>hash2</key>
+			<data>
+			BwAr5nvNUE9B2ZVzuilJs+VVnYsC6oNhWaGzckJIOtE=
+			</data>
+		</dict>
+		<key>func.list</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7eK7ZNKb0XKY72vH+2GVsdHnCCA=
+			</data>
+			<key>hash2</key>
+			<data>
+			9a/HM7URCfPLaJrrlXzjwzFMBSRFIhUOcvMZe95iVKU=
 			</data>
 		</dict>
 	</dict>
