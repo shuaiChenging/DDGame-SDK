@@ -29,7 +29,18 @@ echo "select * from $TABLENAME where src='$1';" | sqlite3 $SYMBOL_DB_FILE
 
 ramdomString()
 {
-openssl rand -base64 64 | tr -cd 'a-zA-Z' |head -c 16
+ipaddr="Game History User Center Bind Phone Change Auto Speed Service Role Real Little My Child Data More Detail Home List Continue Start Stemp Time Customer Check Report"
+iparr=($ipaddr)
+sum=${#iparr[*]}
+ss=""
+k=0
+while(( $k<4 ))
+do
+let "k++"
+index=$[RANDOM%sum+1]
+ss=$ss${iparr[index]}
+done
+echo $ss
 }
 
 rm -f $SYMBOL_DB_FILE
