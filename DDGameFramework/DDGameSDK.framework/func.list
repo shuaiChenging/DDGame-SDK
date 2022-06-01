@@ -138,6 +138,7 @@ MD5ForLower16Bate
 imageWithName
 uploadEventWithType
 uploadAliveEvent
+uploadAlive
 closeTime
 userDefaultsSaveObject
 userDefaultsGetObjectWithKey
@@ -150,3 +151,10 @@ hiddenBall
 reSetTime
 startTimer
 
+KeyChainStore
+save
+deleteKeyData
+uploadAliveWithCompleteBlock
+getAliveString
+getDataString
+onlineNameAndPassword
